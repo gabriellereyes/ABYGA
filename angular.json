@@ -111,7 +111,7 @@
                 "output": "./svg"
               }
             ],
-            "styles": ["src/theme/variables.scss", "src/global.scss"],
+            "styles": ["src/theme/variables.scss", "src/global.scss","@angular/material/prebuilt-themes/deeppurple-amber.css"],
             "scripts": []
           },
           "configurations": {
